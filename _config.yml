@@ -26,14 +26,14 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 # Author settings
 author: 김승연 # add your name
 author-pic: Myself_Neon_grey.jpg
-about-author: Engineer, industry executive, research enthusiast. Avid learner with diverse interests in coding, machine learning, artificial intelligence and reinforcement learning. 17+ years of experience working in multinational corporations.
+about-author: Engineer, research enthusiast. Avid learner with diverse interests in coding, machine learning, artificial intelligence.
 
 # Contact links
 email: poohksy123@gmail.com # Add your Email address
-phone: # Add your Phone number
+phone: 010-1111-1111# Add your Phone number
 website: https://abcd-2020.github.io # Add your website
 linkedin:  # Add your Linkedin handle
-github:  # Add your Github handle
+github: abcd-2020  # Add your Github handle
 twitter: '@MvmThe' # Add your Twitter handle
 bandcamp: armandomaynez # Add your Bandcamp username
 stackoverflow: stackoverflow # Add your stackoverflow account
